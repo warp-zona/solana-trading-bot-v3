@@ -154,7 +154,7 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 - The current version has undergone extensive testing, demonstrates strong profitability, and is free of errors. However, you should always pay attention to market changes and make adjustments accordingly. If you happen to encounter an overall market downturn while using it, I suggest waiting until the market stabilizes before running it again.
 
 - If you want to leave a tip, you can send it to the following address:
-  `7GtsKuSsM3hP3MGZoryvYqUGnsw7W4Lw3Pbui45mU65V`
+  `7GtsKuSsM3hP3MGZoryvYqUGnsw7W4Lw3Pbui45mU65V` Thank you man
 
 
 - If you need custom features or assistance, feel free to contact the admin team on discord for dedicated support. Discord: `warp_zona`
