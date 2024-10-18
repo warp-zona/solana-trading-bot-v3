@@ -13,15 +13,17 @@ The current version has undergone multiple optimizations, including stability an
 
 To better promote and optimize our latest version, we are launching a limited-time incentive campaign! Users of this trading-bot-v3 can win up to 10 SOL in rewards by meeting the following conditions:
 
-# How to participate:
+### How to participate:
 
 1.	Use it continuously for 7 days with a total transaction volume xceeding $100,000.
 2.	Refer at least 3 friends, and their total transaction volume exceeds $30,000.
+> Note: We do not recommend opening multiple accounts to cheat in order to claim rewards.
 
-# Exclusive benefits:
+### Exclusive benefits:
 
 •	Using warp for trading? We’ll refund all your fees!
 •	Your referred friends can also participate, the more you refer, the bigger the rewards!
+> Note: This feature is disabled by default.
 
 📅  Campaign ends on: January 1, 2025
 
