@@ -1,6 +1,6 @@
 ![](readme/warp.png)
 
-### Solana Trading Bot (RC)
+##### Solana Trading Bot (RC)
 
 The Solana Trading Bot is a software tool designed to automate the buying and selling of tokens on the Solana blockchain.
 It is configured to execute trades based on predefined parameters and strategies set by the user.
@@ -8,6 +8,26 @@ It is configured to execute trades based on predefined parameters and strategies
 The bot can monitor market conditions in real-time, such as pool burn, mint renounced and other factors, and it will execute trades when these conditions are fulfilled.
 
 The current version has undergone multiple optimizations, including stability and processing speed improvements, making it better suited for the complexity of the current Solana market. Note: the previous @2.0.0 version repository is no longer maintained and has now continued here.
+
+## 🎉 Incentive Campaign: Win SOL Rewards 🎉
+
+To better promote and optimize our latest version, we are launching a limited-time incentive campaign! Users of this trading-bot-v3 can win up to 10 SOL in rewards by meeting the following conditions:
+
+# How to participate:
+
+1.	Use it continuously for 7 days with a total transaction volume xceeding $100,000.
+2.	Refer at least 3 friends, and their total transaction volume exceeds $30,000.
+
+# Exclusive benefits:
+
+•	Using warp for trading? We’ll refund all your fees!
+•	Your referred friends can also participate, the more you refer, the bigger the rewards!
+
+📅  Campaign ends on: January 1, 2025
+
+💵  Once you’ve completed the conditions, please add my Discord to claim your reward: `warp_zona`
+
+> Tip: The user with the highest monthly trading volume will have a chance to receive additional rewards!
 
 ## Setup
 
@@ -18,6 +38,7 @@ To run the script you need to:
   - You need USDC or WSOL depending on the configuration set below.
 - Configure the script by updating `.env.example` file (remove the .example from the file name when done).
   - Check [Configuration](#configuration) section below
+- To run this program, you must have a NodeJS environment. If you don’t have it, please go to https://nodejs.org/en to download and install it first.
 - Install dependencies by typing: `npm install`
 - Run the script by typing: `npm run start` in terminal
 
@@ -144,7 +165,7 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 - If you see following error in your log file:  
   `Error: No SOL token account found in wallet: `  
   it means that wallet you provided doesn't have USDC/WSOL token account.
-  - FIX: Go to https://jup.ag/ and swap some SOL to USDC/WSOL. For example when you swap sol to wsol you should see it in wallet as shown below:
+  - FIX: Go to https://jup.ag/ and swap some SOL to USDC/WSOL. For example when you swap SOL to WSOL you should see it in wallet as shown below:
 
 ![wsol](readme/wsol.png)
 
