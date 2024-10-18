@@ -1,6 +1,6 @@
 ![](readme/warp.png)
 
-##### Solana Trading Bot (RC)
+# Solana Trading Bot (RC)
 
 The Solana Trading Bot is a software tool designed to automate the buying and selling of tokens on the Solana blockchain.
 It is configured to execute trades based on predefined parameters and strategies set by the user.
@@ -150,7 +150,7 @@ In case TX fails, no fee will be taken from your account.
 
 ## Common issues
 
-If you have an error which is not listed here, please create a new issue in this repository.
+If you encounter an error that is not listed here, please contact me.
 To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 
 ### Unsupported RPC node
@@ -172,9 +172,9 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 ## Contact
 
 
-- The current version has undergone extensive testing, demonstrates strong profitability, and is free of errors. However, you should always pay attention to market changes and make adjustments accordingly. If you happen to encounter an overall market downturn while using it, I suggest waiting until the market stabilizes before running it again.
+- The current version has undergone multiple audits and testing, demonstrates strong profitability, and is free of errors. However, you should always pay attention to market changes and make adjustments accordingly. If you happen to encounter an overall market downturn while using it, I suggest waiting until the market stabilizes before running it again.
 
-- If you want to leave a tip, you can send it to the following address:
+- If it helps you, please leave a star🌟. It will have a positive impact on future maintenance. If you want to leave a tip, you can send it to the following address:
   `7GtsKuSsM3hP3MGZoryvYqUGnsw7W4Lw3Pbui45mU65V`
 
 
