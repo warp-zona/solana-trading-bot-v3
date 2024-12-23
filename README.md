@@ -180,7 +180,7 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
   `7GtsKuSsM3hP3MGZoryvYqUGnsw7W4Lw3Pbui45mU65V`
 
 
-- If you need custom features or assistance, feel free to contact the admin team on discord for dedicated support. Discord: `warp_zona`
+- If you need custom features or assistance, feel free to contact the admin team on discord for dedicated support. Discord: `warp_zona` 
 
 ## Disclaimer
 
